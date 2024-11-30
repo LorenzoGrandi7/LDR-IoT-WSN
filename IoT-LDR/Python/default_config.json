@@ -1,0 +1,23 @@
+{
+    "coap": {
+      "ip": "x.x.x.x"
+    },
+    "influxdb": {
+      "bucket": "IoTLDR",
+      "org": "IoT",
+      "token": "xxxxxxxx",
+      "url": "xxxxxxxx",
+      "prediction_period_min": 15
+    },
+    "mqtt": {
+      "ip": "x.x.x.x",
+      "password": "xxxxxxxx",
+      "port": 1883,
+      "user": "xxxxxxxx"
+    },
+    "telegram": {
+      "token": "xxxxxxxx",
+      "chat_id": "xxxxxxxx"
+    }
+  }
+  

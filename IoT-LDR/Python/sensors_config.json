@@ -1,0 +1,36 @@
+{
+    "sensors": [
+        {
+            "coap_port": 5683,
+            "id": "1",
+            "plant": {
+                "light_amount": 0,
+                "sensor_id": "1",
+                "type": "Free"
+            },
+            "position": {
+                "position_id": "3",
+                "description": "bedroom - S",
+                "name": "bedroom"
+            },
+            "sampling_period": 180,
+            "accumulation_window": 30
+        },
+        {
+            "coap_port": 5684,
+            "id": "2",
+            "plant": {
+                "light_amount": 6,
+                "sensor_id": "2",
+                "type": "Plant 1"
+            },
+            "position": {
+                "position_id": "1",
+                "description": "living-room - E",
+                "name": "living-room"
+            },
+            "sampling_period": 180,
+            "accumulation_window": 30
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "positions": [
+        {
+            "position_id": "1",
+            "description": "living-room - E",
+            "name": "living-room"
+        },
+        {
+            "position_id": "2",
+            "description": "kitchen - S",
+            "name": "kitchen"
+        },
+        {
+            "position_id": "3",
+            "description": "bedroom - S",
+            "name": "bedroom"
+        },
+        {
+            "position_id": "4",
+            "description": "bathroom - S",
+            "name": "bathroom"
+        },
+        {
+            "position_id": "5",
+            "description": "balcony - E",
+            "name": "balcony-E"
+        },
+        {
+            "position_id": "6",
+            "description": "balcony - S",
+            "name": "balcony-S"
+        },
+        {
+            "position_id": "7",
+            "name": "bathroom-N",
+            "description": "Bathroom N"
+        },
+        {
+            "position_id": "8",
+            "name": "bathroom-S",
+            "description": "Bathroom S"
+        }
+    ]
+}
